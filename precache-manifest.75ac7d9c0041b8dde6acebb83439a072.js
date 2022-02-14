@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "31f4afd473eeb35f93b1",
+    "revision": "84c857cc59cd9f2e6c46",
     "url": "/Mohammed-Siraj-Ansari-NamshiInterview-20220214/static/css/main.1c13ec74.chunk.css"
   },
   {
-    "revision": "31f4afd473eeb35f93b1",
-    "url": "/Mohammed-Siraj-Ansari-NamshiInterview-20220214/static/js/main.31f4afd4.chunk.js"
+    "revision": "84c857cc59cd9f2e6c46",
+    "url": "/Mohammed-Siraj-Ansari-NamshiInterview-20220214/static/js/main.84c857cc.chunk.js"
   },
   {
     "revision": "8a1efa17f85b39b2306b",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Mohammed-Siraj-Ansari-NamshiInterview-20220214/static/media/item6.f5fd97b5.jpg"
   },
   {
-    "revision": "10d69662b4849a9246adc24cc632815b",
+    "revision": "e0c40c67750696b2284c33afb5db2627",
     "url": "/Mohammed-Siraj-Ansari-NamshiInterview-20220214/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mohammed-Siraj-Ansari-NamshiInterview-20220214/precache-manifest.692e8eac6cb90a17dae137d8bc148e66.js"
+  "/Mohammed-Siraj-Ansari-NamshiInterview-20220214/precache-manifest.75ac7d9c0041b8dde6acebb83439a072.js"
 );
 
 workbox.clientsClaim();
